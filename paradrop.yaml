@@ -1,0 +1,12 @@
+command: node index.js
+config:
+  web:
+    port: 3000
+description: Alex's hello chute at mobicom tutorial 2017
+name: mobicom2017-halo54-hello
+source:
+  type: git
+  url: https://github.com/alexisduque/pdrop-chute-hello.git
+type: light
+use: node
+version: 1

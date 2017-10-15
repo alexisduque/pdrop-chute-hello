@@ -1,0 +1,8 @@
+{
+  "description": "Alex's hello chute at mobicom tutorial 2017",
+  "name": "mobicom2017-halo54-hello",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
